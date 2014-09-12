@@ -1,0 +1,6 @@
+port = 8000
+servlet.config.path = /jqyxiaoca/workspace/jqytomcat/src/config
+static.file.prefix = *.html *.jpg
+server.max_connect = 500
+static.file.rootPath = /jqyxiaoca/workspace/jqytomcat/src/config
+log.path = /jqyxiaoca/workspace/jqytomcat/log
